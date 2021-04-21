@@ -40,17 +40,18 @@
     
     
 ### 5. 코드 블록
-'''프로그래밍 언어  
-코드내용  
-'''  
+``` 프로그래밍 언어 
+코드내용
+```
 
-'''Java   
+```Java
 public class Hello{
 
-  public static void main(String []args){  
-    system.out.println("Hello");  
-  }  
+ public static void main(String []args){
+    System.out.println("Hello, developer");
+ }
 }
+```
 
 
 ### 6. 가로선
@@ -62,10 +63,21 @@ public class Hello{
 [e클래스 cafe](https://cafe.naver.com/kndjang "e클래스의 카페입니다.")
 
 
-### 8. 강조
+### 8. 강조  
 **Spring**을 만끽하라  
 *Spring*을 만끽하라
 
 
 ### 9. 이미지 넣기
 ![e클래스 cafe](https://github.com/koelkorea/EX_MARKDOWN/blob/main/design.png)
+
+
+### 10. 표
+
+|번호|아이디|이름|레벨|이메일|등록일|
+|:------|------|:------:|------:|------|------|
+|1     |james1 |이승호 |1| koelkorea@gmail.com | 9:00 |
+|2     |james2 |이승호 |2| koelkorea@gmail.com | 9:00 |
+|3     |james3 |이승호 |3| koelkorea@gmail.com | 9:00 |
+|4     |james4 |이승호 |4| koelkorea@gmail.com | 9:00 |
+|5     |james5 |이승호 |5| koelkorea@gmail.com | 9:00 |
