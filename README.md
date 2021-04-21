@@ -68,4 +68,4 @@ public class Hello{
 
 
 ### 9. 이미지 넣기
-https://github.com/koelkorea/EX_MARKDOWN/blob/main/design.png
+!(https://github.com/koelkorea/EX_MARKDOWN/blob/main/design.png)
